@@ -1,2 +1,3 @@
 # spring-proj1
-first project which i learned spring
+i learned spring with this project
+
